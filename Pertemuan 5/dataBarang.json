@@ -1,0 +1,20 @@
+[
+  {
+    "id_barang": 1,
+    "nama_barang": "Komputer",
+    "harga": 8000000,
+    "stok": 15
+  },
+  {
+    "id_barang": 2,
+    "nama_barang": "Laptop",
+    "harga": 5000000,
+    "stok": 20
+  },
+  {
+    "id_barang": 3,
+    "nama_barang": "Handphone",
+    "harga": 3000000,
+    "stok": 30
+  }
+]
