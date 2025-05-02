@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "namaBarang": "Baju",
+    "jumlahBarang": 40,
+    "terjual": 15,
+    "sisa": 25,
+    "updateAt": "2025-05-02"
+  },
+  {
+    "id": 2,
+    "namaBarang": "Celana",
+    "jumlahBarang": 30,
+    "terjual": 10,
+    "sisa": 20,
+    "updateAt": "2025-04-25"
+  }
+]
